@@ -14,12 +14,15 @@
   
   
  
-### 📝 Something about me
+### 📝 Glad to see you here!
+Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly.
 
-* 🌱 I’m currently learning JavaScript.
+I am available for new challenges! Connect with me: mail.nayemkhan@gmail.com
+
+<!-- * 🌱 I’m currently learning JavaScript. -->
 <!-- * 🎓 I'm a Computer Science student💻 -->
-* 🥅 2021 Goals: JavaScript Basic & React⚡
-* 😄 I want to learn everything.
+<!-- * 🥅 2021 Goals: JavaScript Basic & React⚡ -->
+* 🌱 I’m currently learning GCP and Kubernetes.
 * 🌐 You can see some of my projects on [My Portfolio](https://portfolio-website-nayem.web.app/)
 * 💻 You can see my resume on [My Resume](https://drive.google.com/u/0/uc?id=1RK5HeyvtOdu_nXO9ZM9Nljl86O5F4iIU)
 

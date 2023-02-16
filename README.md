@@ -48,7 +48,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=firebase&labelColor=000000)
-![Google Cloud Platform](https://img.shields.io/badge/-google%cloud%platformcp-000000?style=flat&logo=firebase&logoColor=firebase&labelColor=000000)
+![Google Cloud Platform](https://img.shields.io/badge/-gcp-000000?style=flat&logo=gcp&logoColor=gcp&labelColor=000000)
+![My Sql](https://img.shields.io/badge/-mysql-000000?style=flat&logo=mysql&logoColor=mysql&labelColor=000000)
+![Knex](https://img.shields.io/badge/-knex-000000?style=flat&logo=knex&logoColor=knex&labelColor=000000)
 <!-- ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=563D7C) -->
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
 ![YARN](https://img.shields.io/badge/-yarn-000000?style=flat&logo=yarn)
@@ -63,7 +65,7 @@
 
 [![Nayem's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayemk1999&layout=compact&langs_count=10&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](#)
 
-[![Nayem's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?nayemk1999&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](#)
+<!-- [![Nayem's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?nayemk1999&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](#) -->
 
 [![Nayem's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nayemk1999&theme=highcontrast)](#)
 
@@ -71,7 +73,7 @@
 
 
 
-### 🐱‍🏍💻 Something which is developed by me
+### 🐱‍🏍💻 Something which is developed by me Please Scroll Down- 🙏
 
 <!-- [![Moto Repair](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=moto-repair-client&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farhan-nahid/moto-repair-client)
 [![Tech Solution](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=tech-solution-client&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farhan-nahid/tech-solution-client)
@@ -81,10 +83,11 @@
 
 
 
-### Acchivments 😎😜
+<!-- ### Acchivments 😎😜 -->
 
  <p>
   <!-- <img height="550px" width="550px" src="https://i.ibb.co/RcCBqSL/black-belt.jpg" alt="black-belt" border="0">
   <img height="550px" width="550px" src="https://i.ibb.co/PDcNRHZ/certificate.png" alt="certificate" border="0"> -->
  </p>
 
+Thanks. Have a good day.🫶
